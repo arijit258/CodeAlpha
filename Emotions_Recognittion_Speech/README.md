@@ -1,8 +1,8 @@
-# Human Recognition Using Speech - Machine Learning Project
+# Emotions Recognition Using Speech - Machine Learning Project
 
 ## Overview:
 
-Welcome to the Human Recognition Using Speech project! This project leverages machine learning techniques to recognize and identify individuals based on their speech patterns. The goal is to build a robust system that can accurately distinguish different voices and associate them with specific individuals.
+Welcome to the Emotions Recognition Using Speech project! This project leverages machine learning techniques to recognize and identify individuals based on their speech patterns. The goal is to build a robust system that can accurately distinguish different voices and associate them with specific individuals.
 
 ## Images:
 ![image-1](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-1.png)

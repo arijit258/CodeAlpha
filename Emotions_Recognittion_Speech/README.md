@@ -5,9 +5,9 @@
 Welcome to the Human Recognition Using Speech project! This project leverages machine learning techniques to recognize and identify individuals based on their speech patterns. The goal is to build a robust system that can accurately distinguish different voices and associate them with specific individuals.
 
 ## Images:
-!image-1[https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-1.png]
-!image-2[https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-2.png]
-!image-3[https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-3.png]
+![image-1](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-1.png)
+![image-2](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-2.png)
+![image-3](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-3.png)
 
 ## Project Structure:
 

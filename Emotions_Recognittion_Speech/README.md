@@ -6,8 +6,7 @@ Welcome to the Human Recognition Using Speech project! This project leverages ma
 
 ## Images:
 ![image-1](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-1.png)
-![image-2](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-2.png)
-![image-3](https://github.com/arijit258/CodeAlpha/blob/main/Emotions_Recognittion_Speech/image-3.png)
+
 
 ## Project Structure:
 
